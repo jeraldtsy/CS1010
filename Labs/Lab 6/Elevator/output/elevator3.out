@@ -1,0 +1,9 @@
+Enter number of elevators: Enter sequence for elevator 1: Enter sequence for elevator 2: Elevator 1:
+Floor: 3
+Number of passengers: 4
+Usage: 8
+Elevator 2:
+Floor: 5
+Number of passengers: 5
+Usage: 15
+Most used elevator: 2

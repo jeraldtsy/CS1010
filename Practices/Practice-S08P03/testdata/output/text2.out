@@ -1,0 +1,10 @@
+Enter search string with <= 15 characters: search string: "th"
+Search with case-sensitive ('y' or 'n')? Case-sensitivity is off.
+Enter lines of text, each with <= 80 characters,
+and end with an empty line.
+Line entered: "Those thieves thought that Thor, the God"
+Line entered: "of Thunder, is a thoroughly thoughtless"
+Line entered: "thug, through and through, although"
+Line entered: "Thor is thankfully not."
+Line entered: ""
+Number of times "th" appears: 15

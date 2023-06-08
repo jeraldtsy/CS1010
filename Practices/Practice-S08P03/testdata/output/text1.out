@@ -1,0 +1,8 @@
+Enter search string with <= 15 characters: search string: "apple"
+Search with case-sensitive ('y' or 'n')? Case-sensitivity is off.
+Enter lines of text, each with <= 80 characters,
+and end with an empty line.
+Line entered: "There is an apple in the pineapple!"
+Line entered: "She is an apple in my eye."
+Line entered: ""
+Number of times "apple" appears: 3

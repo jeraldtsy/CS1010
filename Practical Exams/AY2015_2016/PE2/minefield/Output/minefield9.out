@@ -1,0 +1,14 @@
+Enter size: 
+Enter minefield: 
+Aftermath: 
+1 2 3 4 5 4 3 2 1 
+2 3 5 6 6 6 5 3 2 
+3 5 7 8 9 8 7 5 3 
+4 6 8 7 8 7 8 6 4 
+5 6 9 8 9 8 9 6 5 
+4 6 8 7 8 7 8 6 4 
+3 5 7 8 9 8 7 5 3 
+2 3 5 6 6 6 5 3 2 
+1 2 3 4 5 4 3 2 1 
+Maximum damage: 9
+Number of safe areas: 0

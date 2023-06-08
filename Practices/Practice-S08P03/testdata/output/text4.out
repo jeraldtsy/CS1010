@@ -1,0 +1,16 @@
+Enter search string with <= 15 characters: search string: "ea"
+Search with case-sensitive ('y' or 'n')? Case-sensitivity is off.
+Enter lines of text, each with <= 80 characters,
+and end with an empty line.
+Line entered: "A passage from a book published in the 1960s:"
+Line entered: "Yet this distance, all those abysses unbridged and then unbridgeable"
+Line entered: "by radio, television, cheap travel and the rest, was not wholly bad."
+Line entered: "People knew less of each other, so were more individual. The entire"
+Line entered: "world was not for them only a push or switch away. Strangers were"
+Line entered: "strange, and sometimes with an exciting, beautiful strangeness. It"
+Line entered: "may be better for humanity that we should communicate more and more."
+Line entered: "But I am a heretic, I think our ancestor's isolation was like the"
+Line entered: "greater space they enjoyed: it can only be envied. The world is only"
+Line entered: "too literally too much with us now."
+Line entered: ""
+Number of times "ea" appears: 5

@@ -1,0 +1,12 @@
+Matrix A:
+Enter number of rows and columns: Enter values for matrix:
+Matrix B:
+Enter number of rows and columns: Enter values for matrix:
+Sum matrix:
+0.00	2.00	0.00	
+2.00	2.00	1.00	
+1.00	2.00	0.00	
+Product matrix:
+3.00	2.00	0.00	
+2.00	3.00	-1.00	
+-1.00	2.00	-1.00	

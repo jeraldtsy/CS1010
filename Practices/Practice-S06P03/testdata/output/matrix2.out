@@ -1,0 +1,7 @@
+Matrix read:
+   0   0   0   0
+   0   3   0   0
+   0   0   1   0
+   0   2   0   3
+Matrix is not a diagonal matrix.
+Matrix is not an upper triangular matrix.

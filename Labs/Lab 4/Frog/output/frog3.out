@@ -1,0 +1,33 @@
+Please enter the length of the bridge: Please insert frogs at position 0: Please insert frogs at position 1: Please insert frogs at position 2: Please insert frogs at position 3: Please insert frogs at position 4: Please insert frogs at position 5: Please insert frogs at position 6: Input completed
+Position:  0  1  2  3  4  5  6 
+Bridge:    1  1  0 -1 -1 -1 -1 
+Please start moving the frogs
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:    1  0  1 -1 -1 -1 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:    1 -1  1  0 -1 -1 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:    1 -1  1 -1  0 -1 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:    1 -1  0 -1  1 -1 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:    0 -1  1 -1  1 -1 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1  0  1 -1  1 -1 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1  1  0  1 -1 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1  1 -1  1  0 -1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1  1 -1  1 -1  0 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1  1 -1  0 -1  1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1  0 -1  1 -1  1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1 -1  0  1 -1  1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1 -1 -1  1  0  1 
+Move the frog at position: Position:  0  1  2  3  4  5  6 
+Bridge:   -1 -1 -1 -1  0  1  1 
+Congratulations! The frogs took 14 jumps to cross the bridge!

@@ -1,0 +1,10 @@
+Enter search string with <= 15 characters: search string: "f"
+Search with case-sensitive ('y' or 'n')? Case-sensitivity is on.
+Enter lines of text, each with <= 80 characters,
+and end with an empty line.
+Line entered: "How many F's do you see in the sentence below?"
+Line entered: "You might be surprised!"
+Line entered: "Finished files are the result of years of scientific"
+Line entered: "study combined with the experience of years."
+Line entered: ""
+Number of times "f" appears: 5

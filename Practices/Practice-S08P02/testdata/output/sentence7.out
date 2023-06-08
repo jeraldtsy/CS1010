@@ -1,0 +1,4 @@
+Enter a sentence with at most 50 characters:
+Sentence = Examples: %d, %c, %f, %lf, %i, %p, %s, %%
+
+Word count = 8

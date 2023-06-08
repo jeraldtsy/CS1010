@@ -1,0 +1,15 @@
+Enter minefield:
+Minefield entered:
+-*-*-*-*
+*-*-*-*-
+-*-*-*-*
+*-*-*-*-
+-*-*-*-*
+*-*-*-*-
+-*-*-*-*
+*-*-*-*-
+Enter search pattern:
+Search pattern entered:
+*-*
+-*-
+Answer = 21

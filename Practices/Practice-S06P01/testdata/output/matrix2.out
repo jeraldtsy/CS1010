@@ -1,0 +1,8 @@
+Matrix A:
+Enter number of rows and columns: Enter values for matrix:
+Matrix B:
+Enter number of rows and columns: Enter values for matrix:
+Unmatched dimensions; cannot be added.
+Product matrix:
+15.00	17.00	11.00	
+13.00	13.00	6.00	

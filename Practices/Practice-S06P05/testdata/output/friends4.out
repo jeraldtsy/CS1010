@@ -1,0 +1,29 @@
+Read in the number of users: There are 7 users, indexed from 0 to 6.
+Enter the number of pairs of direct friends: Enter actual pairs of direct friends:
+  0  1  0  0  0  0  0
+  0  0  0  1  0  0  0
+  1  0  0  0  0  0  0
+  0  0  1  0  0  0  0
+  0  0  0  1  0  1  0
+  0  0  1  0  0  0  0
+  1  1  0  0  1  0  0
+The friendship matrix is:
+  1  1  1  0  0  0  1
+  1  1  0  1  0  0  1
+  1  0  1  1  0  1  0
+  0  1  1  1  1  0  0
+  0  0  0  1  1  1  1
+  0  0  1  0  1  1  0
+  1  1  0  0  1  0  1
+The least number of friends found is 3
+User 5 has least number of friends
+(0,3) has a friend-of-friend relation.
+(0,4) has a friend-of-friend relation.
+(0,5) has a friend-of-friend relation.
+(1,2) has a friend-of-friend relation.
+(1,4) has a friend-of-friend relation.
+(2,4) has a friend-of-friend relation.
+(2,6) has a friend-of-friend relation.
+(3,5) has a friend-of-friend relation.
+(3,6) has a friend-of-friend relation.
+(5,6) has a friend-of-friend relation.

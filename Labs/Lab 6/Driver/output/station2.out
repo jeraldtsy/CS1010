@@ -1,0 +1,6 @@
+Enter total distance: Enter number of gas stations: Enter distance and amount of fuel for each gas station:
+Total distance = 300
+Number of gas stations = 3
+Gas stations' distances:   90  110  190 
+Gas stations' fuel amt :   20  100   40 
+Possible number of routes = 0
