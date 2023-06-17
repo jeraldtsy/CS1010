@@ -27,7 +27,7 @@ int main(void) {
 	darts_inside = throwDarts(darts_total);
 	ans = (4.0000 * darts_inside) / darts_total; 
 
-	printf("Darts landed inside unit circle's quadrant = %d\n");
+	printf("Darts landed inside unit circle's quadrant = %d\n", darts_inside);
 	printf("Approximated pi = %.4f", ans);
 
 	return 0;
